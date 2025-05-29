@@ -36,7 +36,7 @@ The enhanced version of this class reflects my progression toward professional s
 
 You can read my full reflection and enhancement narrative here:
 
-📘 [Milestone Two Narrative – Enhancement One](https://github.com/ItsShawn/shawnhenly/blob/main/CS-499%20Milestone%202%20Enhancement%20One/CS-499%20Milestone%20Two.docx)
+[Milestone Two Narrative – Enhancement One](https://github.com/ItsShawn/shawnhenly/blob/main/CS-499%20Milestone%202%20Enhancement%20One/CS-499%20Milestone%20Two.docx)
 
 This document explains why I chose this artifact, how I improved it, and what I learned during the enhancement process.
 
