@@ -48,3 +48,58 @@ Compare the original and enhanced versions of the `AppointmentService` class:
 - [Enhanced AppointmentServiceEnhanced.java](https://github.com/ItsShawn/shawnhenly/blob/main/CS-499%20Milestone%202%20Enhancement%20One/AppointmentServiceEnhanced.java)
 
 ---
+
+## Enhancement Two – Algorithms and Data Structures
+
+**Artifact Title:** `qtrain()` Function (Reinforcement Learning Agent)  
+**Course Origin:** CS-370: Artificial Intelligence  
+**Enhancement Focus:** Modular design, logging, configuration handling, and defensive coding
+
+### Overview
+This artifact was originally a monolithic Python function used to train a Deep Q-learning agent. It suffered from code bloat, hardcoded parameters, and no traceability, making it difficult to debug or extend.
+
+### Enhancement Summary
+The enhanced version reflects my ability to apply algorithmic principles while improving modularity and maintainability:
+- Extracted logic into modular helper functions like `choose_action()` and `log_progress()`
+- Integrated Python’s `logging` module for visibility
+- Cleaned up the training loop by eliminating global variables
+- Added fallback handling for missing `free_cells` and edge cases
+
+### Narrative Document
+You can read my full reflection and enhancement narrative here:  
+[Milestone Three Narrative – Enhancement Two](CS-499%20Milestone%203%20Enhancement%20Two/CS-499%20Milestone%20Three.docx)
+
+### Source Code
+Compare the original and enhanced versions of the `qtrain()` function:  
+- [Original qtrain.py](CS-499%20Milestone%203%20Enhancement%20Two/qtrain_original.py)  
+- [Enhanced qtrain.py](CS-499%20Milestone%203%20Enhancement%20Two/qtrain_enhanced.py)
+
+---
+
+## Enhancement Three – Databases
+
+**Artifact Title:** `animal_shelter.py`  
+**Course Origin:** CS-340: Advanced Programming Concepts  
+**Enhancement Focus:** Secure credential management, logging, error handling, performance optimization
+
+### Overview
+This artifact allows MongoDB-based CRUD operations for animal records. Initially, it had hardcoded credentials and no safeguards.
+
+### Enhancement Summary
+The updated version transforms the script into a production-ready backend component:
+- Environment variables replace hardcoded credentials (via `os.getenv`)
+- Logging captures all CRUD operations and failure points
+- `try/except` blocks catch MongoDB-related errors
+- Indexes added for `breed`, `location`, and `adoption_status`
+- Input validation and fallback logic improve robustness
+
+### Narrative Document
+You can read my full reflection and enhancement narrative here:  
+[Milestone Four Narrative – Enhancement Three](CS-499%20Milestone%204%20Enhancement%20Three/CS-499%20Milestone%20Four.docx)
+
+### Source Code
+Compare the original and enhanced versions of the `animal_shelter.py` module:  
+- [Original animal_shelter.py](CS-499%20Milestone%204%20Enhancement%20Three/animal_shelter_original.py)  
+- [Enhanced animal_shelter.py](CS-499%20Milestone%204%20Enhancement%20Three/animal_shelter_enhanced.py)
+
+---
