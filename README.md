@@ -67,12 +67,12 @@ The enhanced version reflects my ability to apply algorithmic principles while i
 
 ### Narrative Document
 You can read my full reflection and enhancement narrative here:  
-[Milestone Three Narrative – Enhancement Two](CS-499%20Milestone%203%20Enhancement%20Two/CS-499%20Milestone%20Three.docx)
+[Milestone Three Narrative – Enhancement Two](https://github.com/ItsShawn/shawnhenly/blob/main/CS-499%20Milestone%203%20Enhancement%20Two/CS-499%20Milestone%20Three.docx)
 
 ### Source Code
 Compare the original and enhanced versions of the `qtrain()` function:  
-- [Original qtrain.py](CS-499%20Milestone%203%20Enhancement%20Two/qtrain_original.py)  
-- [Enhanced qtrain.py](CS-499%20Milestone%203%20Enhancement%20Two/qtrain_enhanced.py)
+- [Original qtrain_artifact.py](https://github.com/ItsShawn/shawnhenly/blob/main/CS-499%20Milestone%203%20Enhancement%20Two/qtrain_artifact.py)  
+- [Enhanced qtrain_artifact-enhanced.py](https://github.com/ItsShawn/shawnhenly/blob/main/CS-499%20Milestone%203%20Enhancement%20Two/qtrain_artifact-enhanced.py)
 
 ---
 
@@ -95,11 +95,11 @@ The updated version transforms the script into a production-ready backend compon
 
 ### Narrative Document
 You can read my full reflection and enhancement narrative here:  
-[Milestone Four Narrative – Enhancement Three](CS-499%20Milestone%204%20Enhancement%20Three/CS-499%20Milestone%20Four.docx)
+[Milestone Four Narrative – Enhancement Three](https://github.com/ItsShawn/shawnhenly/blob/main/CS-499%20Milestone%204%20Enhancement%20Three/CS-499%20Milestone%20Four.docx)
 
 ### Source Code
 Compare the original and enhanced versions of the `animal_shelter.py` module:  
-- [Original animal_shelter.py](CS-499%20Milestone%204%20Enhancement%20Three/animal_shelter_original.py)  
-- [Enhanced animal_shelter.py](CS-499%20Milestone%204%20Enhancement%20Three/animal_shelter_enhanced.py)
+- [Original animal_shelter.py](https://github.com/ItsShawn/shawnhenly/blob/main/CS-499%20Milestone%204%20Enhancement%20Three/animal_shelter.py)  
+- [Enhanced animal_shelter-enhanced.py](https://github.com/ItsShawn/shawnhenly/blob/main/CS-499%20Milestone%204%20Enhancement%20Three/animal_shelter-enhanced.py)
 
 ---
